@@ -1,4 +1,4 @@
-package ua.hillel.springdata.entity;
+package ua.hillel.springJdbc.entity;
 
 public class Product {
     private Integer id;

@@ -1,10 +1,10 @@
-package ua.hillel.springdata;
+package ua.hillel.springJdbc;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-import ua.hillel.springdata.config.DaoConfig;
-import ua.hillel.springdata.config.ServletConfig;
-import ua.hillel.springdata.config.SpringJdbcConfig;
-import ua.hillel.springdata.config.WebMvcConfig;
+import ua.hillel.springJdbc.config.DaoConfig;
+import ua.hillel.springJdbc.config.ServletConfig;
+import ua.hillel.springJdbc.config.SpringJdbcConfig;
+import ua.hillel.springJdbc.config.WebMvcConfig;
 
 public class Initializer extends AbstractAnnotationConfigDispatcherServletInitializer {
     @Override

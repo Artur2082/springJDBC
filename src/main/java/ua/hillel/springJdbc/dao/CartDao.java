@@ -1,10 +1,10 @@
-package ua.hillel.springdata.dao;
+package ua.hillel.springJdbc.dao;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import ua.hillel.springdata.dao.mappers.CartMapper;
-import ua.hillel.springdata.dao.mappers.ProductMapper;
-import ua.hillel.springdata.entity.Cart;
+import ua.hillel.springJdbc.dao.mappers.CartMapper;
+import ua.hillel.springJdbc.dao.mappers.ProductMapper;
+import ua.hillel.springJdbc.entity.Cart;
 
 
 @Repository

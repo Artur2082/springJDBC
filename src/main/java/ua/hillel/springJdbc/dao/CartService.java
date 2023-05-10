@@ -1,7 +1,7 @@
-package ua.hillel.springdata.dao;
+package ua.hillel.springJdbc.dao;
 
 import org.springframework.stereotype.Service;
-import ua.hillel.springdata.entity.Cart;
+import ua.hillel.springJdbc.entity.Cart;
 
 
 @Service

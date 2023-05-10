@@ -1,9 +1,9 @@
-package ua.hillel.springdata.servlet;
+package ua.hillel.springJdbc.servlet;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import ua.hillel.springdata.dao.CartService;
-import ua.hillel.springdata.entity.Cart;
+import ua.hillel.springJdbc.dao.CartService;
+import ua.hillel.springJdbc.entity.Cart;
 
 @RestController
 @RequestMapping("/cart")

@@ -1,4 +1,4 @@
-package ua.hillel.springdata.config;
+package ua.hillel.springJdbc.config;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.context.annotation.Bean;
@@ -9,7 +9,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import javax.sql.DataSource;
 
 @Configuration
-@ComponentScan("ua.hillel.springdata.dao")
+@ComponentScan("ua.hillel.springJdbc.dao")
 public class SpringJdbcConfig {
     @Bean
     public DataSource mysqlDataSource() {

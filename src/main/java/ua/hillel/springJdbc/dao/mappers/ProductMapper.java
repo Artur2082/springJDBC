@@ -1,8 +1,8 @@
-package ua.hillel.springdata.dao.mappers;
+package ua.hillel.springJdbc.dao.mappers;
 
 
 import org.springframework.jdbc.core.RowMapper;
-import ua.hillel.springdata.entity.Product;
+import ua.hillel.springJdbc.entity.Product;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

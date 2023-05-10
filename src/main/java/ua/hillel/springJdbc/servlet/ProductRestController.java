@@ -1,9 +1,9 @@
-package ua.hillel.springdata.servlet;
+package ua.hillel.springJdbc.servlet;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import ua.hillel.springdata.dao.ProductService;
-import ua.hillel.springdata.entity.Product;
+import ua.hillel.springJdbc.dao.ProductService;
+import ua.hillel.springJdbc.entity.Product;
 
 import java.util.List;
 

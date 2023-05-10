@@ -1,4 +1,4 @@
-package ua.hillel.springdata.entity;
+package ua.hillel.springJdbc.entity;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ua.hillel.springdata.config;
+package ua.hillel.springJdbc.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.converter.HttpMessageConverter;
